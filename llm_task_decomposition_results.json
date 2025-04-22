@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "prompt": "I spilled my drink, Can you help?",
+    "response": "1. Navigate to the location of the spill.\n2. Identify the spilled liquid and the surrounding area.\n3. Locate a cleaning cloth or paper towel in the vicinity (e.g., kitchen or cleaning supplies area).\n4. Navigate to the cleaning cloth or paper towel and pick it up with the gripper.\n5. Return to the spill location.\n6. Place the cleaning cloth or paper towel on the spill to absorb the liquid.\n7. Press down gently on the cloth or paper towel to ensure maximum absorption.\n8. If necessary, repeat steps 6 and 7 with a new cloth or paper towel until the spill is fully absorbed.\n9. Dispose of the used cleaning cloth or paper towel in the trash.\n10. Return to the charging station or standby location."
+  },
+  {
+    "id": 2,
+    "prompt": "How would you bring me a coke can?",
+    "response": "1. Navigate to the kitchen area.\n2. Use sensors to scan and identify the location of a Coke can.\n3. Move to the identified location of the Coke can.\n4. Position the gripper above the Coke can.\n5. Lower the gripper to grasp the Coke can securely.\n6. Close the gripper to pick up the Coke can.\n7. Lift the Coke can carefully.\n8. Navigate to the user's current location.\n9. Extend the arm to present the Coke can to the user.\n10. Release the gripper to place the Coke can within the user's reach."
+  },
+  {
+    "id": 3,
+    "prompt": "Can you bring me a snack from the table?",
+    "response": "1. Navigate to the table in the room.\n2. Use sensors to scan and identify snack items on the table.\n3. Select a snack item that is easily grippable.\n4. Position the gripper above the selected snack item.\n5. Lower the gripper to grasp the snack item securely.\n6. Lift the snack item carefully.\n7. Navigate back to the user\u2019s location.\n8. Extend the gripper to present the snack to the user."
+  },
+  {
+    "id": 4,
+    "prompt": "I'm feeling cold; can you bring me a blanket from the closet in the hallway?",
+    "response": "1. Navigate to the hallway.\n2. Locate the closet in the hallway.\n3. Open the closet door.\n4. Identify a blanket inside the closet.\n5. Use the gripper to pick up the blanket.\n6. Close the closet door.\n7. Navigate back to the user.\n8. Gently place the blanket on the user's lap or designated area."
+  }
+]
